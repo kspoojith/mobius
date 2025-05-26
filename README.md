@@ -31,7 +31,7 @@ Where:
 Run the script:
 
 ```bash
-python mobius_strip.py
+python mobiusStrip.py
 ```
 📷 Output
 Prints surface area and edge length
